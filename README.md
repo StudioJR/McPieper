@@ -12,5 +12,5 @@ Diese App soll dir als Schulsanitäter das Leben erleichtern.
 Du kannst mit ihr deinen dienst verwalten und sie erinnert dich daran,dass du Dienst 
 
 
-# Download for Androis
+# Download App for Android
 <a href="https://github.com/StudioJR/McPieper/raw/master/app.apk">Herunterladen</a>
