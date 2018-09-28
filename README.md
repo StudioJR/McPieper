@@ -15,3 +15,6 @@ Du kannst mit ihr deinen dienst verwalten und sie erinnert dich daran,dass du Di
 
 # Download App for Android
 <a href="https://github.com/StudioJR/McPieper/raw/master/app.apk">Herunterladen</a>
+
+# Features
+<a href="docs/features.html">Open Feature Page</a>
